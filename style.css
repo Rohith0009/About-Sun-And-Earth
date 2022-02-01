@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: lightgreen;
+}
+p {
+  font-style: bold;
+  font-size: 20px;
+}
+
+img {
+  height: 450px;
+  width: 700px;
+}
